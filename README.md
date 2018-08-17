@@ -8,6 +8,7 @@ network architecture](https://deepmind.com/blog/wavenet-generative-model-raw-aud
 <table style="border-collapse: collapse">
 <tr>
 <td>
+  <p> This code is forked from <a href = "https://github.com/ibab/tensorflow-wavenet" >ibab wavenet implementation</a>. But  I've another project repository <a href = "https://github.com/mitiku1/EveNet" >Evenet</a> which have <a href = "https://github.com/ibab/tensorflow-wavenet" >ibab wavenet implementation</a> in it's repository heirarchy I couldn't able to fork from <a href = "https://github.com/ibab/tensorflow-wavenet" >ibab wavenet implementation</a> directily. </p>
 <p>
 The WaveNet neural network architecture directly generates a raw audio waveform,
 showing excellent results in text-to-speech and general audio generation (see the
